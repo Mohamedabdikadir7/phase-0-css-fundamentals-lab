@@ -3,3 +3,50 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  text-align: center;
+}
+
+img {
+  text-align: center;
+}
+
+nav {
+  text-align: center;
+}
+
+nav a {
+  padding: 10px; 
+  background-color: grey;
+}
+
+figcaption {
+  text-align: center;
+}
+
+#featured-property p {
+  width: 800px;
+  margin: 20px auto; /* Center the text horizontally and add vertical space */
+  text-align: center; /* Center the text */
+}
+
+#details div {
+  float: left; 
+  
+}
+
+#bottom-divs {
+  display: flex;
+}
+
+#bottom-divs div {
+  flex: 1;
+  text-align: center;
+  background-color: red;
+  padding: 20px;
+}
+
+divs {
+  float: left;
+}
